@@ -1,11 +1,16 @@
 _repo: Silverspur-or-The-Mountain-Heroine_57589
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57589-h/images/cover.jpg
 creator:
   author:
     agent_name: Willett, Edward
     gutenberg_agent_id: '48706'
     url: http://www.gutenberg.org/2009/agents/48706
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57589#Silverspur-or-The-Mountain-Heroine
 gutenberg_issued: '2018-07-28'
 gutenberg_type: Text
 identifiers:
